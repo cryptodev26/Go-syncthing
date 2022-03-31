@@ -6,7 +6,7 @@ require (
 	github.com/alecthomas/kong v0.2.16
 	github.com/bkaradzic/go-lz4 v0.0.0-20160924222819-7224d8d8f27e
 	github.com/calmh/xdr v1.1.0
-	github.com/ccding/go-stun v0.1.3
+	github.com/ccding/go-stun v0.1.4
 	github.com/certifi/gocertifi v0.0.0-20210429200110-83314bf6d27c // indirect
 	github.com/chmduquesne/rollinghash v0.0.0-20180912150627-a60f8e7142b5
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
